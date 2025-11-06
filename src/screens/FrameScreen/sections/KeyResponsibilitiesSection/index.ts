@@ -1,0 +1,1 @@
+export { KeyResponsibilitiesSection } from "./KeyResponsibilitiesSection";
